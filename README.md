@@ -1,1 +1,1 @@
-![screenshot](game.png)
+![screenshot](gamedoc.png)
