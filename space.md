@@ -2,7 +2,7 @@
 
 ## Another variation of the game engine. 
 
-Satelites orbiting earth.
+Satellites orbiting earth.
 The moon orbiting with its own orbiting satellite.
 Oumuamua orbiting earth.
 Another planet (our sister. proxima b?)
