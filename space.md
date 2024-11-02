@@ -4,7 +4,7 @@
 
 Satellites orbiting earth.
 The moon orbiting with its own orbiting satellite.
-Oumuamua orbiting earth.
+Oumuamua orbiting earth, taking a peek.
 Another planet (our sister. proxima b?)
 
 ## Play (https://test2.sawyerdigital.co.uk/)
