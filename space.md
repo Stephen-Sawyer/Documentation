@@ -2,6 +2,7 @@
 
 ## Another variation of the game engine. 
 
+Flickering stars.
 Satellites orbiting earth.
 The moon orbiting with its own orbiting satellite.
 Oumuamua orbiting earth, taking a peek.
