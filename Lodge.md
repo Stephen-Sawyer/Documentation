@@ -13,7 +13,7 @@ This screen allows you to make adjustments to already created rooms. The form is
 
 ### Edit Reservation
 This screen allows you to view details of created reservations. The add/edit reservation actions are also a shared form.
-![screenshot](editreservation.png)
+![screenshot](editres.png)
 
 ### Manage
 This is an important part of the site, as it allows you to review and manage quickly.
